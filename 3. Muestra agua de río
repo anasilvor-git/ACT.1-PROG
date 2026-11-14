@@ -1,0 +1,8 @@
+# Muestra de agua de río - Control de flora ambiental y patógenos basales
+
+microorganismo,tipo de microorganismo, porcentaje de abundancia, UFC/ml
+
+Pseudomonas fluorescens, Bacteria ambiental, 45%, 90
+Flavobacterium sp., Bacteria acuática, 30%, 60
+Bacillus subtilis, Bacteria saprófita, 15%, 30
+Escherichia coli, Coliforme fecal (Indicador), 10%, 20
