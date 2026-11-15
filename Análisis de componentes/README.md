@@ -1,6 +1,6 @@
-#Analisis_de_componetes
+# Analisis_de_componetes
 
-##descripcion
+## descripcion
 Esta sección comprende el análisis de los componentes biológicos y químicos presentes en muestras de agua y sedimento provenientes de una Estación Depuradora de Aguas Residuales (EDAR) y del arroyo receptor.
 
 ## Objetivo
