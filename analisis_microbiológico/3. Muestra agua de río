@@ -1,0 +1,9 @@
+# Muestra de agua de río - Control ambiental
+
+microorganismo,tipo de microorganismo, porcentaje de abundancia, UFC/ml
+
+Pseudomonas fluorescens, Bacteria ambiental, 50%, 100
+Bacillus subtilis, Bacteria de fangos activos/saprofita, 30%, 60
+Acinetobacter sp., Bacteria eliminadora de fosforo, 15%, 30
+Escherichia coli, Coliforme fecal (Indicador), 4%, 8
+Enterococcus faecalis, Enterococo fecal (Indicador), 1%, 2
