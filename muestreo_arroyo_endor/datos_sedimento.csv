@@ -1,0 +1,11 @@
+punto,zona,distancia_vertido_m,materia_organica_pct,arena_pct,limo_pct,arcilla_pct,fosforo_total_mgkg,Cu_mgkg,Zn_mgkg,Pb_mgkg,observaciones
+A1,aguas_arriba,-480,1.8,74,19,6,288,11.2,41,7.4,
+A2,aguas_arriba,-395,3.4,63,27,10,402,14.8,58,9.9,"mucha hojarasca, MO alta"
+A3,aguas_arriba,-310,2.0,71,20,9,301,10.9,44,NA,Pb < limite deteccion (0.5 mg/kg)
+A4,aguas_arriba,-205,2.4,69,23,9,336,13.5,51,9.1,
+A5,aguas_arriba,-90,2.7,66,24,10,349,16.1,57,10.8,
+M1,zona_mezcla,45,9.7,41,40,18,1612,53.4,236,24.7,"sedimento negro, olor a huevo podrido"
+M2,zona_mezcla,160,7.1,50,34,15,1184,40.2,177,19.3,
+M3,zona_mezcla,240,8.2,46,37,17,1320,44.9,198,21.6,remanso
+M4,zona_mezcla,365,4.9,59,28,12,866,30.7,129,15.2,
+M5,zona_mezcla,440,5.2,58,30,13,902,29.3,134,16.0,
