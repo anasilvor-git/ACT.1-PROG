@@ -1,0 +1,8 @@
+#Determinacion_biomasa
+
+## Codigo_muestra,punto_muestreo,tipo_muestra,biomasa_mg_L
+M01,Entrada_EDAR,Agua,42.5
+M02,Salida_EDAR,Agua,18.7
+M03,Aguas_arriba,Agua,12.4
+M04,Aguas_abajo,Agua,25.8
+M05,Aguas_abajo,Sedimento,86.3

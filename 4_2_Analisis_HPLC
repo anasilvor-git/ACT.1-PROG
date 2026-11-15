@@ -1,0 +1,15 @@
+# Analisis_HPLC
+
+## codigo_muestra,punto_muestreo,compuesto,concentracion_ug_L
+M01,Entrada_EDAR,Cafeina,125.6
+M01,Entrada_EDAR,Ibuprofeno,48.2
+M01,Entrada_EDAR,Sulfametoxazol,22.5
+M02,Salida_EDAR,Cafeina,18.4
+M02,Salida_EDAR,Ibuprofeno,12.1
+M02,Salida_EDAR,Sulfametoxazol,8.3
+M03,Aguas_arriba,Cafeina,2.1
+M03,Aguas_arriba,Ibuprofeno,0.8
+M03,Aguas_arriba,Sulfametoxazol,0.5
+M04,Aguas_abajo,Cafeina,8.7
+M04,Aguas_abajo,Ibuprofeno,4.2
+M04,Aguas_abajo,Sulfametoxazol,2.9

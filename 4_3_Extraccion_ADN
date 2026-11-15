@@ -1,0 +1,8 @@
+#Extracion_ADN
+
+##codigo_muestra,punto_muestreo,concentracion_ADN_ng_uL,pureza_260_280
+M01,Entrada_EDAR,35.8,1.82
+M02,Salida_EDAR,28.4,1.79
+M03,Aguas_arriba,22.6,1.85
+M04,Aguas_abajo,31.2,1.81
+M05,Aguas_abajo_sedimento,45.7,1.76

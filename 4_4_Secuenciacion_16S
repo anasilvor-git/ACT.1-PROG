@@ -1,0 +1,8 @@
+#Secuanciacion_s16_rRNA
+
+##codigo_muestra,punto_muestreo,secuencias_lecturas,riqueza_taxonomica
+M01,Entrada_EDAR,25000,85
+M02,Salida_EDAR,22000,72
+M03,Aguas_arriba,18000,65
+M04,Aguas_abajo,24000,91
+M05,Aguas_abajo_sedimento,28000,110
