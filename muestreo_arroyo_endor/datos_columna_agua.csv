@@ -1,0 +1,11 @@
+punto,zona,distancia_vertido_m,hora,temperatura_C,pH,oxigeno_mgL,conductividad_uScm,turbidez_NTU,amonio_mgL,nitrato_mgL,fosfato_mgL,DBO5_mgL,ecoli_UFC100mL,observaciones
+A1,aguas_arriba,-480,09:05,13.8,7.92,9.41,398,2.3,0.03,0.87,0.021,1.6,35,
+A2,aguas_arriba,-395,09:40,14.0,7.85,9.18,412,4.7,0.06,1.14,0.034,2.3,82,"pozas, mucha hojarasca"
+A3,aguas_arriba,-310,10:10,14.1,7.97,9.26,405,2.9,0.04,1.02,0.028,1.9,41,
+A4,aguas_arriba,-205,10:45,14.6,7.81,8.87,431,3.6,0.05,1.31,0.039,NA,57,frasco DBO roto en transporte
+A5,aguas_arriba,-90,11:20,14.5,7.76,8.95,427,3.0,0.07,1.25,0.045,2.4,110,
+M1,zona_mezcla,45,12:10,17.3,7.21,4.86,936,21.4,3.82,3.05,1.37,13.2,31000,"olor fuerte, espumas"
+M2,zona_mezcla,160,12:45,16.4,7.38,5.92,841,15.9,2.71,2.66,1.04,10.4,17500,
+M3,zona_mezcla,240,13:20,16.6,7.33,5.71,858,17.2,2.94,2.81,1.11,10.9,19800,remanso; OD medido 2 veces
+M4,zona_mezcla,365,13:50,15.4,7.52,7.03,712,8.3,1.48,2.37,0.66,6.6,6300,
+M5,zona_mezcla,440,14:25,15.2,7.58,7.39,688,7.1,1.22,2.19,0.53,5.8,4100,
