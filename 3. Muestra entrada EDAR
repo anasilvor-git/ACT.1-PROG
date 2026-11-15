@@ -1,0 +1,9 @@
+# Muestra de Entrada EDAR - Agua bruta sin tratar 
+
+microorganismo,tipo de microorganismo, porcentaje de abundancia, UFC/ml
+
+Escherichia coli, Coliforme fecal (Indicador), 50%, 25000
+Enterococcus faecalis, Enterococo fecal (Indicador), 30%, 15000
+Acinetobacter sp., Bacteria eliminadora de fosforo, 10%, 5000
+Bacillus subtilis, Bacteria de fangos activos/saprofita, 6%,3000
+Pseudomonas fluorescens, Bacteria ambiental, 4.0,2000
