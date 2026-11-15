@@ -1,7 +1,7 @@
 # Fase 5: Resultados Integrados y Análisis Estadístico
 
 **Responsable:** Anthony Mero  
-**Objetivo:** Integrar los datos microbiológicos (Fase 3) y fisicoquímicos/moleculares (Fase 4) mediante bioinformática y estadística para evaluar el impacto del vertido de la EDAR sobre el Arroyo EDER.
+**Objetivo:** Integrar los datos microbiológicos (Fase 3) y fisicoquímicos/moleculares (Fase 4) mediante bioinformática y estadística para evaluar el impacto del vertido de la EDAR sobre el Arroyo ENDOR.
 
 ## Hallazgos Principales (Cruce de Datos)
 
