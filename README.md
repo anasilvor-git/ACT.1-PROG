@@ -1,15 +1,11 @@
 # COMPARATIVA MICROBIOMA EDAR Y ARROYO ENDOR
 
+Se realiza un estudio en relación a la filtración de aguas desde las tuberías de una EDAR hacia un arroyo cercano, "ENDOR". Se ha contratado a un grupo de biólogos con el objetivo de comparar el microbioma y características físicas del agua en la zona de mezcla, y determinar el riesgo de la contaminación cruzada para la salud humana y los ecosistemas aguas abajo.
+
 ## 1. Muestreo EDAR
 Caracterizar las condiciones fisicoquímicas y de preservación de las muestras tomadas en la Estación Depuradora de Aguas Residuales (EDAR) antes y después del tratamiento, estableciendo la línea base del microbioma y contaminantes que se vierten al entorno.
 ## 2. Muestreo Arroyo "ENDOR"
 Caracterizar el estado ecológico del Arroyo Endor aguas arriba del punto de vertido de la EDAR (zona control) y evaluar el impacto del efluente en la zona de mezcla aguas abajo, tanto en la columna de agua como en el sedimento de fondo
-- 01_condiciones_aguas_arriba.md	Condiciones y localización de la zona de control
-- 02_condiciones_zona_mezcla.md	Condiciones y localización de la zona de mezcla.
-- 03_protocolo_columna_agua.md	Protocolo de toma de muestras de agua
-- 04_protocolo_sedimento.md	Protocolo de toma de muestras de sedimento
-- datos_columna_agua.csv	Parámetros fisicoquímicos y microbiológicos del agua
-- datos_sedimento.csv	Granulometría, materia orgánica, fósforo y metales.
 ## 3. Análisis Microbiológico
 El análisis microbiológico evalúa la composición, abundancia cultivable (UFC/mL) y viabilidad celular de la comunidad bacteriana en tres puntos clave del sistema: el agua residual sin tratar (Entrada EDAR), el efluente tratado (Salida EDAR) y el ecosistema receptor de referencia (Agua de río - Control ambiental).
 ## 4. Análisis de Componentes
